@@ -97,3 +97,13 @@ plt.figure()
         plt.show()
 ```
 
+![alt text](https://github.com/HannahCurrivan/FourierTransformsGUI/blob/main/FSGUI.JPG)
+
+
+![alt text](https://github.com/HannahCurrivan/FourierTransformsGUI/blob/main/XCSWF1.png)
+
+
+![alt text](https://github.com/HannahCurrivan/FourierTransformsGUI/blob/main/MTF2.png)
+
+
+![alt text](https://github.com/HannahCurrivan/FourierTransformsGUI/blob/main/FNTF3.png)
