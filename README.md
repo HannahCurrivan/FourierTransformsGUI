@@ -77,6 +77,7 @@ This is to generate a 3 Hz sine wave that lasts any amount of duration that was 
         x, y = gen_sine_wave(3, SAMPLE_RATE, DURATION)
 ```
 
+Once you click on the "calculate" button you will produce three figures, "X-coordinates of the sine wave", "Mixed tone", and "Frequency over the normalised tone".
 
 ```
 plt.figure()
@@ -95,3 +96,4 @@ plt.figure()
         plt.title('Frequency over the normalised tone')
         plt.show()
 ```
+
